@@ -1,0 +1,64 @@
+
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
+<div class="activities" style="background-color: rgba(238, 238, 238, 0.6);
+  color: black;
+  margin: 0px;
+  padding: 5px;
+  border-style: none;
+  border-width: 2px;
+  border-radius: 5px;">
+  <h3>Barcelona city tour</h3>
+  <p>From 9.30h to 13.30h They will do a tour that will allow them to learn about the city, not only from the bus, they will stop in Camp Nou Facilities to see the stadium outside and have some explanations about the club and future expansion plan. Then the bus will drive until Diagonal Avenue and stop 10 minutes away from **Sagrada Familia**, the guides will split guests in 2 groups to walk them to see the Temple façades and explain every detail outside. 
+Finally, we will drive again direction to **Parc Güell** and visit the public areas and also the most emblematic modernist areas of the parc</p>
+  <hr>
+  <br><br>
+  
+<div class="clearfix">
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="Campnou.jpg" alt="Barça" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="Sagradafamilia.jpg" alt="SF" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+  <img src="Parcguell.jpg" alt="Front" style="width:100%">
+  </div>
+  <div style="clear: both;"></div>
+</div>  
+<hr><br>
+
+<section class="container">
+
+<div class ="one" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-clock-o" style="font-size:20px;color:orange;"></i> 
+<b>Duration: 180 mins</b></p>
+<p><i class="fa fa-user" style="font-size:20px;color:orange;"></i> 
+<b>Difficulty Level: Easy</b></p>
+<p><i class="fa fa-wheelchair" style="font-size:20px;color:orange;"></i> 
+<b>Handicapped Facilities: Yes but not recommended</b></p>
+</div>
+
+<div class ="two" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-venus-mars" style="font-size:20px;color:orange;"></i> 
+<b>Toilet facilities: Yes</b></p>
+<p><i class="fa fa-bus" style="font-size:20px;color:orange;"></i> 
+<b>Requires bus: Yes</b></p>
+<p><i class="fa fa-users" style="font-size:20px;color:orange;"></i> 
+<b>Max. Nr of pax: min 20pax-max 400pax</p>
+</div>
+</section>
+</div>
+  
+

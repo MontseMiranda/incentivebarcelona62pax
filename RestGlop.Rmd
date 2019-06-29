@@ -1,0 +1,61 @@
+
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
+<div class="restaurants" style="background-color: rgba(238, 238, 238, 0.6);
+  color: black;
+  margin: 0px;
+  padding: 5px;
+  border-style: none;
+  border-width: 2px;
+  border-radius: 5px;">
+  <h3>Restaurant Glop</h3>
+  <p>This simple restaurant with a **rustic and informal atmosphere** located in the busy district of Gracia is already a legendary for dinner as a group. It has three private rooms with large capacity.
+
+El Glop give us a proper, **traditional, lifelong Catalan cuisine**. They specialize in grilled meats, and the set menu includes also sausages and cheese, bread and tomato, spring onions, etc. If you want to try a little of everything, the Glop The grilled meat is the most successful.</p>
+  <hr>
+  <br><br>
+  
+<div class="clearfix">
+  <div class="img-container" style="float: left;
+  width: 50%;
+  padding: 5px;">
+  <img src="glop1.jpg" alt="glop" style="width:100%">
+  </div>
+  <div class="img-container" style="float: left;
+  width: 50%;
+  padding: 5px;">
+  <img src="glop2.jpg" alt="glop" style="width:100%">
+  </div>
+</div>  
+<hr><br>
+
+<section class="container">
+
+<div class ="one" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-map-o" style="font-size:20px;color:orange;"></i> 
+<b>Location: City centre</b></p> 
+<p><i class="fa fa-cutlery" style="font-size:20px;color:orange;"></i> 
+<b>Dining room capacities: 80 pax</b></p> 
+<p><i class="fa fa-eur" style="font-size:20px;color:orange;"></i> 
+<b>Price Level: average-low</b></p> 
+</div>
+
+<div class ="two" style="float: left;
+    padding: 5px;">
+<p><i class="fa fa-apple" style="font-size:20px;color:orange;"></i> 
+<b>Vegetarian Options/Special diets: Available</b></p> 
+<p><i class="fa fa-handshake-o" style="font-size:20px;color:orange;"></i> 
+<b>Style: Catalan cuisine</b></p>
+<p><i class="fa fa-wheelchair" style="font-size:20px;color:orange;"></i> 
+<b>Handicapped access: Yes</p> 
+</div>
+</section>
+</div>
+
+
+  
+
