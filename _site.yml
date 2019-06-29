@@ -4,8 +4,6 @@ navbar:
   left:
     - text: "Quotation"
       href: index.html
-    - text: "Budget"
-      href: daxboard.html
     - text: "Credentials"
       href: about.html
    
